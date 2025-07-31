@@ -1,5 +1,5 @@
 # google-form-capture
-## Deployment Guide
+
 ### 1. Environment Setup
 ```bash
 # Install dependencies
