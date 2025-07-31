@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ### 2. Google Script Configuration
 Open Google Form → Click "Extensions" → Select "Apps Script"
 
-Paste contents of <google_form.js>
+Paste contents of `google_form.js`
 
 Set up trigger:
 
@@ -20,7 +20,7 @@ Select onSubmit function
 Choose event type "On form submit"
 
 ### 3. Environment Variables
-Create <.env> file:
+Create `.env` file:
 
 ```
 ADMIN_SLACK_TOKEN=your-token-here
