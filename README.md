@@ -22,7 +22,7 @@ Choose event type "On form submit"
 ### 3. Environment Variables
 Create '.env' file:
 
-'''
+```
 ADMIN_SLACK_TOKEN=xoxb-your-token-here
 ADMIN_OPENAI_API_KEY=sk-your-key-here
-'''
+```
