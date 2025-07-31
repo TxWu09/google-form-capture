@@ -23,6 +23,6 @@ Choose event type "On form submit"
 Create '.env' file:
 
 ```
-ADMIN_SLACK_TOKEN=xoxb-your-token-here
-ADMIN_OPENAI_API_KEY=sk-your-key-here
+ADMIN_SLACK_TOKEN=your-token-here
+ADMIN_OPENAI_API_KEY=your-key-here
 ```
